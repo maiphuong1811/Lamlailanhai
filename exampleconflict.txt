@@ -1,2 +1,3 @@
-This is a line from develop branch
 Another line added from develop branch
+This is a line from feature/conflict-demo branch
+
